@@ -1,5 +1,12 @@
 # Econometrics Project : Analysis of the Relationship Between Performance and Salaries in the NBA During the 2024–2025 Season
 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-404040?style=for-the-badge&logo=markdown&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A5276?style=for-the-badge&logo=r&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=LaTeX&logoColor=white)
+
 ## 📌 Project Overview
 This project was developed as part of a Data Science / Econometrics course. The main goal is to analyze a real-world NBA dataset to answer the following question: **Do statistics truly reflect the value (salary) of an NBA player?**
 
@@ -36,4 +43,4 @@ The following methods were implemented and interpreted:
  
 ##
 
-### **🌍 Note : The final PDF report is written in French. However, I would be more than happy to discuss the methodology, the code, or the results in English! Feel free to reach out.
+### 🌍 Note : The final PDF report is written in French. However, I would be more than happy to discuss the methodology, the code, or the results in English! Feel free to reach out.
