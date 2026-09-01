@@ -12,6 +12,10 @@ This project was developed as part of a Data Science / Econometrics course. The 
 
 As huge NBA fans ourselves, we will try to demonstrate here that the league operates on two parallel economies: while statistics perfectly explain the salaries of rotation players, other factors (status, experience) take over for the superstars.
 
+## 🏗️ Overall Architecture
+
+*(Overview of the data structure, ETL flow and analysis process)*
+
 ```mermaid 
 graph TD
     %% Sources de données (Cylindres bleus)
