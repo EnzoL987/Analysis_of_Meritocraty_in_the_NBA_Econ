@@ -12,6 +12,47 @@ This project was developed as part of a Data Science / Econometrics course. The 
 
 As huge NBA fans ourselves, we will try to demonstrate here that the league operates on two parallel economies: while statistics perfectly explain the salaries of rotation players, other factors (status, experience) take over for the superstars.
 
+```mermaid 
+graph TD
+    %% Sources de données (Cylindres bleus)
+    A[(Statistiques NBA)]:::blue
+    B[(Salaires Kaggle)]:::blue
+
+    %% ETL : Extract & Transform (Boîtes blanches)
+    A --> C
+    B --> C
+    C[Extract : Database join]:::white
+    C --> D[Cleaning and Feature Eng]:::white
+
+    %% Chargement dans la base finale (Cylindre orange)
+    D --> E[(Database nba_f)]:::orange
+
+    %% Areas of analysis (Restructured into 3 categories)
+    E --> F[Statistical Tests]:::light
+    E --> G[Econometrics]:::light
+    E --> H[Unsupervised Learning]:::light
+
+    F --> I[Chi-squared & ANOVA]:::purple
+    G --> J[Multiple Regression]:::purple
+    H --> K[PCA, SCA and K-Means]:::purple
+
+    %% Final conclusion
+    I --> L
+    J --> L
+    K --> L
+    L((Conclusion)):::green
+
+    %% Définition des couleurs exactes pour correspondre à ton image
+    classDef blue fill:#1a8cff,stroke:#000,stroke-width:1px,color:#fff;
+    classDef white fill:#ffffff,stroke:#333,stroke-width:1px,color:#000;
+    classDef orange fill:#ffcc66,stroke:#333,stroke-width:1px,color:#000;
+    classDef light fill:#e6f0ff,stroke:#333,stroke-width:1px,color:#000;
+    classDef purple fill:#b366ff,stroke:#333,stroke-width:1px,color:#fff;
+    classDef green fill:#00cc99,stroke:#000,stroke-width:2px,color:#fff;
+```
+
+
+
 ## 🎯 Objectives and Statistical Methods
 This project showcases the mastery of an end-to-end Data Science pipeline in **R**, from data cleaning to advanced mathematical modeling. 
 
