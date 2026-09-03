@@ -75,7 +75,7 @@ The following methods were implemented and interpreted:
 
 ## 📂 Repository Structure
 * `Projet_Econometrie_Remy_Enzo24.Rmd`: The source script containing all the fully commented code.
-* `Projet_Sans_Code.pdf`: The final generated report, fully formatted and interpreted.
+* `Projet_Sans_Code.pdf`: The final report generated, fully formatted and interpreted, without displaying the code.
 * `base_stats_NBA_24_25.csv` & `NBA Player Salaries_2024-25_1.csv`: The raw datasets (official NBA statistics and Kaggle salaries).
 
 ## 🚀 How to Reproduce the Analysis?
@@ -88,4 +88,4 @@ The following methods were implemented and interpreted:
  
 ##
 
-### 🌍 Note : The final PDF report is written in French. However, I would be more than happy to discuss the methodology, the code, or the results in English! Feel free to reach out.
+### 🌍 Note : The final PDF report `Projet_Sans_Code.pdf` is written in French. However, I would be more than happy to discuss the methodology, the code, or the results in English! Feel free to reach out.
