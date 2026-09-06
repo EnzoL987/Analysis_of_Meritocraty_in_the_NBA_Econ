@@ -7,7 +7,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-474747?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-## 📌 Project Overview
+## 📝 Project Overview
 This project was developed as part of a Data Science / Econometrics course. The main goal is to analyze a real-world NBA dataset to answer the following question: **Do statistics truly reflect the value (salary) of an NBA player?**
 
 As huge NBA fans ourselves, we will try to demonstrate here that the league operates on two parallel economies: while statistics perfectly explain the salaries of rotation players, other factors (status, experience) take over for the superstars.
