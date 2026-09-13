@@ -79,7 +79,7 @@ The following methods were implemented and interpreted:
 
 ## 🚀 How to Reproduce the Analysis?
 
-*💡 If you just want to read the final results without running the code, you can directly open the clean report here: [**Projet_Sans_Code.pdf**](./Results/Projet_Sans_Code.pdf).*
+*💡 If you just want to read the final results without running the code, you can directly open the clean report here: [**Projet_Sans_Code.pdf**](./Results/Projet_Sans_Code.pdf) (you can download the file so that you can use the interactive table of contents).*
 
 1. Clone this repository to your local machine.
 2. Make sure you have R and RStudio installed.
