@@ -56,7 +56,6 @@ graph TD
 ```
 
 
-
 ## 🎯 Objectives and Statistical Methods
 This project showcases the mastery of an end-to-end Data Science pipeline in **R**, from data cleaning to advanced mathematical modeling. 
 
@@ -79,6 +78,9 @@ The following methods were implemented and interpreted:
 * `base_stats_NBA_24_25.csv` & `NBA Player Salaries_2024-25_1.csv`: The raw datasets (official NBA statistics and Kaggle salaries).
 
 ## 🚀 How to Reproduce the Analysis?
+
+*💡 If you just want to read the final results without running the code, you can directly open the clean report here: [**Projet_Sans_Code.pdf**](./Results/Projet_Sans_Code.pdf).*
+
 1. Clone this repository to your local machine.
 2. Make sure you have R and RStudio installed.
 3. Open the `.Rmd` file. The `pacman` package will automatically install and load the required dependencies.
